@@ -1,8 +1,8 @@
 {
   "app": {
-    "name": "Zen Tunes",
-    "short_description": "Play the famous zen tunes in your help desk.",
-    "long_description": "Play the famous zen tunes in your help desk and \n listen to the beats it has to offer.",
-    "installation_instructions": "Simply click install."
+    "name": "Fortress Zendesk App",
+    "short_description": "Use Zendesk with Fortress.",
+    "long_description": "Allows use of Fortress features from the Customer Services Assist web-site to be useable in a Zendesk App frame",
+    "installation_instructions": "Click the install button and then look for 'Apps' button next to tickets. You will need to sign in in the box provided."
   }
 }

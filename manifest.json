@@ -19,5 +19,10 @@
     "short_description": "Use Zendesk with Fortress",
     "long_description": "Allows use of Fortress features from the Customer Services Assist web-site to be useable in a Zendesk App frame",
     "installation_instructions": "Click the install button and then look for 'Apps' button next to tickets. You will need to sign in in the box provided."
-  }
+  },
+  "screenshots": [
+    "assets/ss1.png",
+    "assets/ss2.png",
+    "assets/ss3.png"
+  ]
 }
