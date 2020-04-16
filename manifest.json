@@ -6,7 +6,7 @@
     "url": "http://www.yourfortress.com"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_sidebar": "https://fortressvoucheradmin-v2-test.azurewebsites.net/ZenDesk/ZenLauncher"
