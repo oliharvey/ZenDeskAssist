@@ -1,0 +1,23 @@
+{
+  "name": "Fortress Assist",
+  "author": {
+    "name": "oli",
+    "email": "oli@yourfortress.com",
+    "url": "http://www.yourfortress.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "https://fortressvoucheradmin-v2-test.azurewebsites.net/ZenDesk/ZenLauncher"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0",
+  "app": {
+    "name": "Fortress Zendesk App",
+    "short_description": "Use Zendesk with Fortress",
+    "long_description": "Allows use of Fortress features from the Customer Services Assist web-site to be useable in a Zendesk App frame",
+    "installation_instructions": "Click the install button and then look for 'Apps' button next to tickets. You will need to sign in in the box provided."
+  }
+}

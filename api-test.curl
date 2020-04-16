@@ -1,0 +1,1 @@
+curl https://d3v-yourfortress.zendesk.com/api/v2/users.json -u oli@yourfortress.com/token:U5r0lEjqFMVT7Oj9snsEwiUpHCHisnXVBLPAp2yc

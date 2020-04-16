@@ -1,0 +1,14 @@
+base article:
+https://develop.zendesk.com/hc/en-us/articles/360001074968
+
+oli machine file system location:
+/mnt/c/Work/Proj/Zendesk/tutorial_apps/app_local
+
+start dev server:
+zat server
+
+steps:
+* go to app_local dir
+* start dev server
+* start VoucherAdmin locally
+* go to ZenDesk: https://d3v-yourfortress.zendesk.com/agent/tickets/2?zat=true
